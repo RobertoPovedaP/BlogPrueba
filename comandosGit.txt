@@ -25,6 +25,8 @@ permite visuzlizar la lista de archivos que se encuentran dentro de un directori
 clear
 limpia la pantalla o consola de comandos
 
+q 
+para salir de un paginador que siempre aparece con la palabra (end)
 
 git show (nombre del archivo con extensión)
 permite visualizar el último cambio de un archivo y los párrafos o íneas comparativas entre versiones
