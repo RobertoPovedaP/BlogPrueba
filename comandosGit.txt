@@ -3,6 +3,9 @@ Comandos básicos
 git satus
 muestra el estado del archivo en el caso que este en stage o a se ha modificado
 
+git add .
+hace que todos los archios se actualicen y pasen del estado stage al estado modificado
+
 git add (nombre del archivo con xtension)
 este comando ayuda a pasar a un archivo del estado stage a un estado de modificacion definitivo
 
@@ -15,6 +18,9 @@ permite ver el historial de todas los commit de todos los archivos
 
 git log (nombre del archivo con extension)
 permite ver el historial de un determinado archivo
+
+git diff codigoversionDeUnCommit codigoOtraVersionCommit
+muestra la comparación de cmabios entre archivos de diferentes versiones
 
 history
 muestra toda la lista de comandos utilizados
@@ -32,6 +38,9 @@ git show (nombre del archivo con extensión)
 permite visualizar el último cambio de un archivo y los párrafos o íneas comparativas entre versiones
 
 atajos de teclado
+
 ctrl + l
 limpia la consola
 
+esc + shit + z+z
+salir de la pantalla que pide un commit
