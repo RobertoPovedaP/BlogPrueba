@@ -13,6 +13,10 @@ git commit -m "mensaje o comentario de cambio realizado"
 este comando permite agregar una pequeña descripcion del cambio realizado
 como ayuda a seguir un historial o bitácora
 
+git rm nombredearchivo
+elimina el archivo del estado de stage
+
+
 git log 
 permite ver el historial de todas los commit de todos los archivos
 
@@ -30,6 +34,9 @@ permite visuzlizar la lista de archivos que se encuentran dentro de un directori
 
 clear
 limpia la pantalla o consola de comandos
+
+code (nombre del archivo con su extension)
+abre el visualcode para editar el archivo
 
 q 
 para salir de un paginador que siempre aparece con la palabra (end)
