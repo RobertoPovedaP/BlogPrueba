@@ -1,0 +1,24 @@
+Comandos básicos
+
+git satus
+muestra el estado del archivo en el caso que este en stage o a se ha modificado
+
+git add (nombre del archivo con xtension)
+este comando ayuda a pasar a un archivo del estado stage a un estado de modificacion definitivo
+
+git commit -m "mensaje o comentario de cambio realizado"
+este comando permite agregar una pequeña descripcion del cambio realizado
+como ayuda a seguir un historial o bitácora
+
+git log (nombre del archivo con extension)
+permite ver el historial de todas los commit
+
+ls 
+permite visuzlizar la lista de archivos que se encuentran dentro de un directorio
+
+git history (nombre del archivo)
+
+
+git show (nombre del archivo con extensión)
+permite visualizar el último cambio de un archivo y los páraafos o íneas comparativas entre versiones
+
