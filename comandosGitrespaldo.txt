@@ -51,3 +51,5 @@ limpia la consola
 
 esc + shit + z+z
 salir de la pantalla que pide un commit
+
+prueba de agregado de texto
